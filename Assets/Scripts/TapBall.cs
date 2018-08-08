@@ -8,10 +8,10 @@ public class TapBall : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.Log ("TapBall Start");
-
+		transform.position = Camera.main.transform.position + (Camera.main.transform.forward * 1.5f);
 	}
 	
-	// Update is called once per frame
+	// Update isai called once per frame
 	void Update () {
 		
 	}

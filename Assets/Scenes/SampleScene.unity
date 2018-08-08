@@ -276,7 +276,7 @@ Prefab:
     - target: {fileID: 114000011154029958, guid: 2ed75ffdf9031c94e8bce4b3d17b9928,
         type: 2}
       propertyPath: drawVisualMeshes
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2ed75ffdf9031c94e8bce4b3d17b9928, type: 2}
@@ -417,8 +417,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   limitScanningByTime: 1
   scanTime: 10
-  defaultMaterial: {fileID: 0}
-  secondaryMaterial: {fileID: 0}
+  defaultMaterial: {fileID: 2100000, guid: 729453690df4d40488b01b78b3af849d, type: 2}
+  secondaryMaterial: {fileID: 2100000, guid: df172103f5fba4a4d8636aeca60cb0d7, type: 2}
   minimumFloors: 1
   minimumWalls: 1
 --- !u!114 &1230783022

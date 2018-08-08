@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-08T18:01:25.534</Modified>
+      <Modified>2018-08-08T21:18:38.080</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\bin\x86\Release\MonkeyBall.exe">
       <PackagePath>entrypoint\MonkeyBall.exe</PackagePath>
-      <Modified>2018-08-08T18:00:17.174</Modified>
+      <Modified>2018-08-08T21:17:38.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-08-08T17:58:22.846</Modified>
+      <Modified>2018-08-08T21:15:23.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -564,15 +564,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-08-08T17:57:37.046</Modified>
+      <Modified>2018-08-08T21:14:38.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-08-08T17:57:32.850</Modified>
+      <Modified>2018-08-08T21:14:34.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-08-08T17:57:23.786</Modified>
+      <Modified>2018-08-08T21:14:26.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -580,39 +580,39 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-08-08T17:57:37.037</Modified>
+      <Modified>2018-08-08T21:14:38.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-08-08T17:57:33.211</Modified>
+      <Modified>2018-08-08T21:14:34.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-08-08T17:57:33.521</Modified>
+      <Modified>2018-08-08T21:14:35.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-08-08T17:57:35.916</Modified>
+      <Modified>2018-08-08T21:14:37.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-08-08T17:57:23.754</Modified>
+      <Modified>2018-08-08T21:14:26.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-08-08T17:57:33.509</Modified>
+      <Modified>2018-08-08T21:14:35.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-08-08T17:57:35.905</Modified>
+      <Modified>2018-08-08T21:14:37.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-08-08T17:58:22.671</Modified>
+      <Modified>2018-08-08T21:15:23.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-08-08T17:58:22.678</Modified>
+      <Modified>2018-08-08T21:15:23.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -625,235 +625,235 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:16.593</Modified>
+      <Modified>2018-08-08T21:18:27.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:16.680</Modified>
+      <Modified>2018-08-08T21:18:27.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:16.728</Modified>
+      <Modified>2018-08-08T21:18:27.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:16.795</Modified>
+      <Modified>2018-08-08T21:18:27.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.049</Modified>
+      <Modified>2018-08-08T21:18:28.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.095</Modified>
+      <Modified>2018-08-08T21:18:28.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.163</Modified>
+      <Modified>2018-08-08T21:18:28.417</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.215</Modified>
+      <Modified>2018-08-08T21:18:28.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.289</Modified>
+      <Modified>2018-08-08T21:18:28.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.435</Modified>
+      <Modified>2018-08-08T21:18:28.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.528</Modified>
+      <Modified>2018-08-08T21:18:28.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.699</Modified>
+      <Modified>2018-08-08T21:18:28.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.771</Modified>
+      <Modified>2018-08-08T21:18:29.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.824</Modified>
+      <Modified>2018-08-08T21:18:29.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.897</Modified>
+      <Modified>2018-08-08T21:18:29.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:17.968</Modified>
+      <Modified>2018-08-08T21:18:29.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.014</Modified>
+      <Modified>2018-08-08T21:18:29.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.065</Modified>
+      <Modified>2018-08-08T21:18:29.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.125</Modified>
+      <Modified>2018-08-08T21:18:29.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.186</Modified>
+      <Modified>2018-08-08T21:18:29.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.239</Modified>
+      <Modified>2018-08-08T21:18:29.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.296</Modified>
+      <Modified>2018-08-08T21:18:29.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.346</Modified>
+      <Modified>2018-08-08T21:18:29.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.430</Modified>
+      <Modified>2018-08-08T21:18:29.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.521</Modified>
+      <Modified>2018-08-08T21:18:29.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.589</Modified>
+      <Modified>2018-08-08T21:18:29.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.686</Modified>
+      <Modified>2018-08-08T21:18:30.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.763</Modified>
+      <Modified>2018-08-08T21:18:30.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.822</Modified>
+      <Modified>2018-08-08T21:18:30.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:18.875</Modified>
+      <Modified>2018-08-08T21:18:30.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:19.924</Modified>
+      <Modified>2018-08-08T21:18:31.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.047</Modified>
+      <Modified>2018-08-08T21:18:32.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.097</Modified>
+      <Modified>2018-08-08T21:18:32.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.219</Modified>
+      <Modified>2018-08-08T21:18:32.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.289</Modified>
+      <Modified>2018-08-08T21:18:32.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-08-08T17:57:54.815</Modified>
+      <Modified>2018-08-08T21:14:57.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.395</Modified>
+      <Modified>2018-08-08T21:18:33.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.442</Modified>
+      <Modified>2018-08-08T21:18:33.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.488</Modified>
+      <Modified>2018-08-08T21:18:33.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.538</Modified>
+      <Modified>2018-08-08T21:18:33.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.622</Modified>
+      <Modified>2018-08-08T21:18:33.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.728</Modified>
+      <Modified>2018-08-08T21:18:33.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.778</Modified>
+      <Modified>2018-08-08T21:18:33.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.853</Modified>
+      <Modified>2018-08-08T21:18:33.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.899</Modified>
+      <Modified>2018-08-08T21:18:33.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:21.948</Modified>
+      <Modified>2018-08-08T21:18:33.739</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:22.004</Modified>
+      <Modified>2018-08-08T21:18:33.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-08-08T18:01:22.127</Modified>
+      <Modified>2018-08-08T21:18:33.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-08-08T18:01:22.394</Modified>
+      <Modified>2018-08-08T21:18:34.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-08-08T18:01:22.577</Modified>
+      <Modified>2018-08-08T21:18:34.416</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-08-08T18:01:22.919</Modified>
+      <Modified>2018-08-08T21:18:34.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-08-08T18:01:22.974</Modified>
+      <Modified>2018-08-08T21:18:34.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-08-08T18:01:23.064</Modified>
+      <Modified>2018-08-08T21:18:35.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-08-08T18:01:23.165</Modified>
+      <Modified>2018-08-08T21:18:35.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-08-08T18:01:23.270</Modified>
+      <Modified>2018-08-08T21:18:35.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-08-08T18:01:23.574</Modified>
+      <Modified>2018-08-08T21:18:35.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-08-08T18:01:23.698</Modified>
+      <Modified>2018-08-08T21:18:35.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\brucew\MonkeyBall\App\MonkeyBall\bin\x86\Release\Core\MonkeyBall.exe">
       <PackagePath>MonkeyBall.exe</PackagePath>
-      <Modified>2018-08-08T18:01:25.512</Modified>
+      <Modified>2018-08-08T21:18:38.056</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

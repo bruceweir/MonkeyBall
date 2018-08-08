@@ -42,7 +42,7 @@ namespace HoloToolkit.Unity.SpatialMapping
 		{
 			
 			// Update surfaceObserver and storedMeshes to use the same material during scanning.
-			//SpatialMappingManager.Instance.SetSurfaceMaterial (defaultMaterial);
+			SpatialMappingManager.Instance.SetSurfaceMaterial (defaultMaterial);
 
 			// Register for the MakePlanesComplete event.
 			SurfaceMeshesToPlanes.Instance.MakePlanesComplete += SurfaceMeshesToPlanes_MakePlanesComplete;
@@ -113,7 +113,7 @@ namespace HoloToolkit.Unity.SpatialMapping
 				// changing the material applied to the Spatial Mapping meshes.
 				// Call SpatialMappingManager.Instance.SetSurfaceMaterial().
 				// Pass in the secondaryMaterial.
-				//SpatialMappingManager.Instance.SetSurfaceMaterial (secondaryMaterial);
+				SpatialMappingManager.Instance.SetSurfaceMaterial (secondaryMaterial);
 
 				GameObject obj = Instantiate (Resources.Load("MonkeyBall")) as GameObject;
 
