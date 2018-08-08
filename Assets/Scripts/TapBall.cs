@@ -7,7 +7,8 @@ public class TapBall : MonoBehaviour {
 	public int force;
 	// Use this for initialization
 	void Start () {
-		
+		Debug.Log ("TapBall Start");
+
 	}
 	
 	// Update is called once per frame
